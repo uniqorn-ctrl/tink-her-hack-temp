@@ -2,27 +2,28 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# Smart anonymous feedback and complaint system 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: Ignite Crew
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: DELNA ROSE MJ - JYOTHI ENGINEERING COLLEGE
+- Member 2: JOHANNA JOHNS -  JYOTHI ENGINEERING COLLEGE
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+Smart Feedback and Complaint System is a user-friendly web application designed to help users submit feedback and complaints easily and efficiently
 
 ### The Problem statement
-[What problem are you solving?]
+Many organizations handle complaints and feedback manually, which leads to delays, mismanagement, and lack of transparency.
+There is a need for a centralized digital system that allows users to submit, track, and resolve complaints efficiently and securely.
 
 ### The Solution
-[How are you solving it?]
+We solve this problem by developing a Smart Feedback and Complaint System, a centralized web platform where users can easily submit complaints and track their status online.
 
 ---
 
@@ -31,10 +32,10 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
+- Languages used:  JavaScript,CSS, html
+- Frameworks used: flask
 - Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Tools used:VS Code, Git
 
 **For Hardware:**
 - Main components: [List main components]
